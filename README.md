@@ -48,6 +48,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Penodat v2 Kullanıcı İncelemesi - 2021](https://www.youtube.com/watch?v=FsTUuBxg36M)
+- [Yeditepe Üniversitesi Öğrencileri ile Soru Cevap Etkinliği | 2020](https://www.youtube.com/watch?v=9jHlaK0riUw)
+- [İzmir Bakırçay Üniversitesi Öğrencileri ile Soru Cevap Etkinliği | 2020](https://www.youtube.com/watch?v=pVAMyXG6E4c)
+- [Özyeğin Üniversitesi Öğrencileri ile Soru Cevap Etkinliği | 2021](https://www.youtube.com/watch?v=EKewNGw2IAs)
+- [Boğaziçi Üniversitesi Öğrencileri ile Soru Cevap Etkinliği | 2020](https://www.youtube.com/watch?v=n5JqqIAlJM8)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/c/SezerBozkır)
