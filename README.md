@@ -63,11 +63,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Bir Django Uygulamasını Kubernetes’e Taşıma](https://www.sezerbozkir.com/2021/12/bir-django-uygulamasini-kubernetese-tasima/)
 - [Python 3.10 ile Gelen Yenilikler](https://www.sezerbozkir.com/2021/08/python-3-10-ile-gelen-yenilikler/)
 - [Python ile Apache Kafka için Consumer ve Producer Oluşturma](https://www.sezerbozkir.com/2021/06/python-ile-apache-kafka-icin-consumer-ve-procuder-olusturma/)
 - [Python ile HiveMQ da Sunucu ve istemci](https://www.sezerbozkir.com/2021/05/python-ile-hivemq-da-sunucu-ve-istemci/)
 - [Suse ile LVM Disk Kapasitesini Genişletme](https://www.sezerbozkir.com/2021/05/suse-ile-lvm-disk-kapasitesini-genisletme/)
-- [HMS Search Kit için Python Istemcisi](https://www.sezerbozkir.com/2021/02/hms-search-kit-icin-python-istemcisi/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://sezerbozkir.com)
